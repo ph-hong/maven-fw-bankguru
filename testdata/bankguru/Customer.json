@@ -1,0 +1,18 @@
+{
+	"Register": {
+		"customerName": "Auto Bank",
+		"dateOfBirth": "11/10/1990",
+		"address": "Hoang Ha street",
+		"city": "Ho Chi Minh",
+		"state": "Ba Dinh",
+		"pinNumber": "778899",
+		"telephoneNumber": "123123123",
+		"email": "test",
+		"password": "Guru123!@"
+	},
+	"Login": {
+		"loginEmail": "pnnag@gmail.com",
+		"loginUserID": "mngr495936",
+		"loginPassword": "ajYhanE"
+	}
+}
