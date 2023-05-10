@@ -2,7 +2,7 @@ package com.bankguru.customer;
 
 import org.testng.annotations.Test;
 
-import com.bankguru.com.Common_New_Customer;
+import com.bankguru.common.Common_New_Customer;
 
 import bankguru.CustomerData;
 import common.BaseTest;

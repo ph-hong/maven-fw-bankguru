@@ -1,4 +1,4 @@
-package com.bankguru.com;
+package com.bankguru.common;
 
 import bankguru.CustomerData;
 import common.BaseTest;
