@@ -1,0 +1,6 @@
+/allure-results/
+/target/
+/test-output/
+/.classpath
+/.DS_Store
+/.project
